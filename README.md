@@ -24,9 +24,9 @@ Google’s **Teachable Machine** provides an easy way to train models for classi
 
 | **Task** | **Description** | **Colab Link** |
 |----------|---------------|---------------|
-| 📝 **Text-Based Classification** | Uses natural language processing to classify text into different categories. | [teachable_text.ipynb](INSERT_COLAB_LINK_HERE) |
-| 🖼️ **Image-Based Classification** | Trains an image classifier using Google’s Teachable Machine. | [teachable_image.ipynb](INSERT_COLAB_LINK_HERE) |
-| 🎥 **Video-Based Classification** | Implements real-time classification using video frames and webcam input. | [teachable_video.ipynb](INSERT_COLAB_LINK_HERE) |
+| 📝 **Text-Based Classification** | Uses natural language processing to classify text into different categories. | [deployed_model_link](INSERT_COLAB_LINK_HERE) |
+| 🖼️ **Image-Based Classification** | Trains an image classifier using Google’s Teachable Machine. | [deployed link](INSERT_COLAB_LINK_HERE) |
+| 🎥 **Video-Based Classification** | Implements real-time classification using video frames and webcam input. | [deployed link](INSERT_COLAB_LINK_HERE) |
 
 ---
 
@@ -35,11 +35,11 @@ This section contains **4 levels of complexity**, each demonstrating a **differe
 
 | **Level** | **Description** | **Colab Link** |
 |-----------|---------------|---------------|
-| ✅ **Easy** | Uses a simple pretrained model for classification. | [keras_easy.ipynb](INSERT_COLAB_LINK_HERE) |
-| ⚡ **Intermediate** | Fine-tunes a pretrained model with custom training. | [keras_intermediate.ipynb](INSERT_COLAB_LINK_HERE) |
-| 🚀 **Advanced** | Implements data augmentation and optimization techniques. | [keras_advanced.ipynb](INSERT_COLAB_LINK_HERE) |
-| 🏆 **Expert** | Builds an end-to-end pipeline with advanced optimization. | [keras_expert.ipynb](INSERT_COLAB_LINK_HERE) |
-
+| ✅ **Easy** | Uses a simple pretrained model for classification. | [keras_easy.ipynb](https://colab.research.google.com/drive/13vrgttBtS2yQD8lelpC14tE1q7uMBNKU?usp=sharing) |
+| ⚡ **Intermediate** | Fine-tunes a pretrained model with custom training. | [keras_intermediate.ipynb](https://colab.research.google.com/drive/13vrgttBtS2yQD8lelpC14tE1q7uMBNKU?usp=sharing)|
+| 🚀 **Advanced** | Implements data augmentation and optimization techniques. | [keras_advanced.ipynb](https://colab.research.google.com/drive/13vrgttBtS2yQD8lelpC14tE1q7uMBNKU?usp=sharing) |
+| 🏆 **Expert** | Builds an end-to-end pipeline with advanced optimization. | [keras_expert.ipynb](https://colab.research.google.com/drive/13vrgttBtS2yQD8lelpC14tE1q7uMBNKU?usp=sharing) |
+ everything is in a single colab file
 ---
 
 ## **📺 Video Walkthroughs**
