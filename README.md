@@ -45,5 +45,5 @@ This section contains **4 levels of complexity**, each demonstrating a **differe
 ## **📺 Video Walkthroughs**
 🎥 **Want to see the full implementation?** Check out the YouTube walkthroughs where each model is executed and explained in detail!
 
-📌 **Teachable Machine Demos**: [click here](#)
-📌 **Keras Hub Experiments**: [click here](#)  
+📌 **Teachable Machine Demos**: [click here](https://youtu.be/dvhds_6KI8A)
+📌 **Keras Hub Experiments**: [click here](https://youtu.be/oBapbhPGdYE)  
