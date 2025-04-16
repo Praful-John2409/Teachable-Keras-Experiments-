@@ -24,8 +24,8 @@ Google’s **Teachable Machine** provides an easy way to train models for classi
 
 | **Task** | **Description** | **Colab Link** |
 |----------|---------------|---------------|
-| 📝 **Text-Based Classification** | Uses natural language processing to classify text into different categories. | [deployed_model_link](INSERT_COLAB_LINK_HERE) |
-| 🖼️ **Image-Based Classification** | Trains an image classifier using Google’s Teachable Machine. | [deployed link](INSERT_COLAB_LINK_HERE) |
+| 📝 **Audio-Based Classification** | Uses natural language processing to classify text into different categories. | [deployed_model_link](https://teachablemachine.withgoogle.com/models/rgUrglI3G/) |
+| 🖼️ **Image-Based Classification** | Trains an image classifier using Google’s Teachable Machine. | [deployed link](https://teachablemachine.withgoogle.com/models/nH2rwuCeB/) |
 | 🎥 **Video-Based Classification** | Implements real-time classification using video frames and webcam input. | [deployed link](INSERT_COLAB_LINK_HERE) |
 
 ---
